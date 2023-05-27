@@ -1,22 +1,20 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@400&display=swap');
 
 body {
   margin: 0;
   padding: 0;
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Mulish', sans-serif;
   box-sizing: border-box;
   width: 100%;
  
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-}
+
 
 /* common css  */
 :root {
-  --primary: #1d73d6;
+  --primary: #000000;
 
 }
 
@@ -61,7 +59,7 @@ code {
 .menu ul li a.menu-items {
   text-decoration: none;
   color: rgb(2, 2, 2);
-  font-weight: 600;
+  font-weight: 400;
   font-size: 15px;
 
 }
@@ -76,7 +74,7 @@ code {
   color: var(--primary);
   text-decoration: none;
   padding: 7px 15px;
-  font-weight: 500;
+  font-weight: 400;
   font-size: 15px;
 }
 
@@ -132,7 +130,7 @@ code {
   color: var(--primary);
   text-decoration: none;
   padding: 7px 15px;
-  font-weight: 500;
+  font-weight: 400;
   font-size: 15px;
 }
 
@@ -169,7 +167,7 @@ code {
 .education ul li {
   font-size: 20px;
   color: var(--primary);
-  font-weight: 600;
+  font-weight: 400;
 
 }
 
@@ -230,7 +228,7 @@ code {
   color: var(--primary);
   text-decoration: none;
   padding: 7px 15px;
-  font-weight: 500;
+  font-weight: 400;
   font-size: 15px;
 }
 
@@ -425,7 +423,7 @@ code {
 
 .skill-container .card-body h1 {
   font-size: 18px;
-  font-weight: 600;
+  font-weight: 400;
   text-align: center;
 }
 
@@ -497,7 +495,7 @@ code {
 .container-service .card-body p {
   font-size: 16px;
   text-align: center;
-  font-weight: 600;
+  font-weight: 400;
 }
 
 /* service css end */
@@ -543,7 +541,7 @@ code {
   color: var(--primary);
   text-decoration: none;
   padding: 7px 15px;
-  font-weight: 500;
+  font-weight: 400;
   font-size: 15px;
   margin: 20px 0;
 }
@@ -759,7 +757,7 @@ code {
     color: var(--primary);
     text-decoration: none;
     padding: 7px 15px;
-    font-weight: 500;
+    font-weight: 400;
     font-size: 15px;
   }
   .about-pic img {
