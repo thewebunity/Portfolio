@@ -12,6 +12,7 @@ app.use(require("./router/auth"));
 app.use(require("./router/Skill_auth"));
 app.use(require("./router/Project_auth"));
 app.use(require("./router/Service_auth"));
+app.use(require("./router/Gallery_auth"));
 app.use(require("./router/Acheivements_auth"));
 app.use(require("./router/Certification_auth"));
 
